@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "robotic-pact-437903-g9",
-  "private_key_id": "92793da288015cdef17791c7c66f786c5a426434",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDU8zF/EbCc2KIz\n/cMPZRDLGA2/LvZik976Q4Qv3pN0FY9sDvbj/0dISTJBnC2UlyGTrQgkYQ43YbEP\nzvDzxHqRmI5K8tUUjMniXo6+aKZ17MlfBKZi3jhXZ667cGKIppV6OAVjRlyPnPhd\nuZThxdqCZJGpxQs1W8xNGtq7ClLCacB97dpjDu+FzWmfmsiLcdOUbcsPBHu6T3VS\nTLhSixtn1xES7fWUxrVAfkWzPkZqy2L17PznVmcO1lE++T355ItkZ0073VeyRkYZ\nVbk9LrVXI+Hx2fkCGzSXHKclW6um7nDYYHUbN5uYC1By6XlqJHQ422xagfq9onGq\nvXAaxaA3AgMBAAECgf4e/6KJJBcMqoLYMkxMs9SG5hAqbPL1p208MagPpBYGvIEt\n9ag1QQDelSChylsfhwdiuLBJXdd82mD472E6lhtOeuajc8yUDZZMEwMItLTKoyVP\nJEd1dG8Z6Oc43Pxdyt7aXSZroWRGJZ0yj6Pr9aOlcXl7fe90xMr/I9loy70s6kGz\nPPSn81CTtef5D/zRujjV+NKqq4wFfANGuSp5vrEX6eRCy2noIzpHoG7zODeaIBTa\npVphcrNqwCVcxk6876YweMt06rblBQZbAqVKhq1dnz4MOvXO6meG0O+JWJNMoJjk\n1pjeCO114ApGSnD3bKvf//W4g7C+4ydRwBL1tQKBgQD3UmaAtUS2pnWHWjonjH7K\nF3T+y+dl7O5aZfDQK1ezQUfCp/BtUNH8XhnY/jbksGp25vv8pV1oHEB+odXqts7p\nZXAnzvY3SJ9Oc/6Ndui8XUHkPNQto/qDSyfSMFXQwdlrdODdy56IzRgnOfqQLeE0\n0RZ+jFdmg87ekoKPpkC8ywKBgQDcbAsE1zej25qm4VUTBqVzApiIkhMYh696kTch\nTwfo055HTka5XEFzaIX1ydjtphzV2h5cVgje6wymtRMoWVLMhntXp8DoUQtYztaN\n4Kif+vUePHib+OTL/2XUcpDpl5pA2fwhgd1wWL1f2JKwbKm8N64QPxUPDErgHBuQ\ny2oIxQKBgExpUPIDDy+/TiB7Z+xAJAwcIzF1nhCHmzyisjweqAHh8WHasRWVGst1\n51Z7dEpDlyEVTFVKYgmAcQyuw4C46kSB6pzh/IAoF9ANVmAulMldprX1dTiEqSlX\nVv5BoMHWom3otnDQMDLj6spzx040XpgK4YBHq9kocAmkCmKHYwjxAoGBAIhjsk3E\nfgE+GWu5clLbgfSwXoHjIT3Ed6h3wo0xwcsnZoDoxopbs4Qd4QY9Z6Vla+JHnRG1\nirek6acd1ETbQIidjiSnAI6/1y2Ujt4rbSvQtWuIL3kTgT9ZQUE7wr9Ht4L5XzG8\nkbC6uDNeZyYTltOIAIS9A+LT0GDsA4KM24ehAoGBAMheTgoIcZZ2+iyjlO2wk5c7\nRq13CCYZsPnWQxoHMm/LN8kkTcfCVZj0bVuCnms9Ryit4AMRiZUOLWa11UqxMCcQ\ndpyC+vxkBrbsNlkOJ+j6L6TDCKT7hJQcWUyJ4glCX1rEVW4aPwXms9WmS/7wSgdv\n1YuSEDMIwXqH2yua9JqY\n-----END PRIVATE KEY-----\n",
-  "client_email": "translator@robotic-pact-437903-g9.iam.gserviceaccount.com",
-  "client_id": "106859706544921741695",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translator%40robotic-pact-437903-g9.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
