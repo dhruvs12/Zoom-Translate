@@ -1,1 +1,17 @@
+# Google Cloud service account credentials
 sa_translator.json
+*.json.key
+credentials/*.json
+
+# General credential files
+*.pem
+*.key
+*_key.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
